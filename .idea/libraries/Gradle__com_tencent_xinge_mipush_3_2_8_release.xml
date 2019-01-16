@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tencent.xinge:mipush-3.2.8-release">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/mipush-3.2.8-release.aar/ec0fcf18b57455c0d56ed46be251d6a4/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/mipush-3.2.8-release.aar/ec0fcf18b57455c0d56ed46be251d6a4/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/mipush-3.2.8-release.aar/ec0fcf18b57455c0d56ed46be251d6a4/jars/libs/MiPush_SDK_Client_3_6_9.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/mipush-3.2.8-release.aar/ec0fcf18b57455c0d56ed46be251d6a4/jars/libs/Xg4xmpush-v3.2.8_20181204_1008.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tencent.xinge/mipush/3.2.8-release/c4cb0944c05b22acb9d63a397847608e0d4bc95f/mipush-3.2.8-release-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
