@@ -364,10 +364,6 @@
         "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\304d5be222b9f7378afa1dc0f0941066\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
-        "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_qp.xml.flat",
-        "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\layout\\activity_qp.xml"
-    },
-    {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
         "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\304d5be222b9f7378afa1dc0f0941066\\res\\layout\\notification_template_part_chronometer.xml"
     },
@@ -752,10 +748,6 @@
         "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\drawable\\btn_normal.xml"
     },
     {
-        "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dispatchinginformationreceiving.xml.flat",
-        "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\layout\\activity_dispatchinginformationreceiving.xml"
-    },
-    {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_xj_jdxy.xml.flat",
         "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\layout\\activity_xj_jdxy.xml"
     },
@@ -826,10 +818,6 @@
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\debug\\layout_include_checkbox.xml.flat",
         "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\layout\\include_checkbox.xml"
-    },
-    {
-        "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_changepassword.xml.flat",
-        "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\layout\\activity_changepassword.xml"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_qyxx.xml.flat",
@@ -990,6 +978,10 @@
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_kc_wbdbck.png.flat",
         "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\drawable-hdpi\\menu_kc_wbdbck.png"
+    },
+    {
+        "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_kdg_list.xml.flat",
+        "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\layout\\activity_kdg_list.xml"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_navi_guide_turn.png.flat",
@@ -1380,12 +1372,20 @@
         "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\drawable-hdpi\\edittext_up.9.png"
     },
     {
+        "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_w_changepassword.xml.flat",
+        "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\layout\\activity_w_changepassword.xml"
+    },
+    {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_esp_jdxy.png.flat",
         "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\drawable-hdpi\\menu_esp_jdxy.png"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register_confirm.xml.flat",
         "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\layout\\activity_register_confirm.xml"
+    },
+    {
+        "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_w_params.xml.flat",
+        "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\layout\\activity_w_params.xml"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_w_down.png.flat",
@@ -1464,6 +1464,10 @@
         "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\layout\\activity_kdg_zcdjquery.xml"
     },
     {
+        "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_notify_qp.xml.flat",
+        "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\layout\\activity_notify_qp.xml"
+    },
+    {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dlg_edittext.png.flat",
         "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\drawable-hdpi\\dlg_edittext.png"
     },
@@ -1538,10 +1542,6 @@
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_state_ico.png.flat",
         "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\drawable-hdpi\\state_ico.png"
-    },
-    {
-        "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_params.xml.flat",
-        "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\layout\\activity_params.xml"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_servicereport_jbxx_ico.png.flat",

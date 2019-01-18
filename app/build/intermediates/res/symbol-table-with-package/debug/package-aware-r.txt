@@ -930,11 +930,9 @@ layout ac_image_pager
 layout activity_addparts
 layout activity_addpartsadd
 layout activity_calltel
-layout activity_changepassword
 layout activity_cjwt
 layout activity_cjwtshow
 layout activity_datafilter
-layout activity_dispatchinginformationreceiving
 layout activity_frame
 layout activity_help
 layout activity_informationreceiving
@@ -953,6 +951,7 @@ layout activity_kdg_gzdw
 layout activity_kdg_jdxy
 layout activity_kdg_jqgdcx
 layout activity_kdg_jqgdcxshow
+layout activity_kdg_list
 layout activity_kdg_myqd
 layout activity_kdg_sbxxpd
 layout activity_kdg_smdw
@@ -969,8 +968,7 @@ layout activity_login
 layout activity_ly
 layout activity_lyadd
 layout activity_main
-layout activity_params
-layout activity_qp
+layout activity_notify_qp
 layout activity_qyxx
 layout activity_qyxx_table
 layout activity_register
@@ -988,8 +986,10 @@ layout activity_util_baidumap
 layout activity_util_imgchoose
 layout activity_util_imgchoosepage
 layout activity_util_imgpz
+layout activity_w_changepassword
 layout activity_w_fwzxscx
 layout activity_w_fwzxscxshow
+layout activity_w_params
 layout activity_w_pqzgjk
 layout activity_w_pqzgjsl
 layout activity_w_pqzgjslshow

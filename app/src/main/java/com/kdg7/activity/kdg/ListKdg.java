@@ -9,7 +9,6 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 
 import android.annotation.SuppressLint;
-import android.app.Activity;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
@@ -53,7 +52,7 @@ public class ListKdg extends FrameActivity {
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		appendMainBody(R.layout.activity_dispatchinginformationreceiving);
+		appendMainBody(R.layout.activity_kdg_list);
 		initVariable();
 		initView();
 		initListeners();

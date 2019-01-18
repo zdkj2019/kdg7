@@ -35,7 +35,7 @@ public class ChangePasswordActivity extends FrameActivity {
 		super.onCreate(savedInstanceState);
 		getWindow().setSoftInputMode(
 				WindowManager.LayoutParams.SOFT_INPUT_STATE_ALWAYS_HIDDEN);
-		appendMainBody(R.layout.activity_changepassword);
+		appendMainBody(R.layout.activity_w_changepassword);
 		initVariable();
 		initView();
 		initListeners();

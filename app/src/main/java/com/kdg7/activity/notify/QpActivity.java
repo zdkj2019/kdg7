@@ -6,10 +6,7 @@ import org.json.JSONObject;
 
 import com.kdg7.R;
 import com.kdg7.activity.BaseActivity;
-import com.kdg7.activity.login.LoginActivity;
-import com.kdg7.cache.DataCache;
 import com.kdg7.common.Constant;
-import com.kdg7.po.User;
 import com.kdg7.utils.Config;
 import com.kdg7.webservice.WebService;
 
@@ -18,7 +15,6 @@ import android.app.Activity;
 import android.app.KeyguardManager;
 import android.content.DialogInterface;
 import android.content.Intent;
-import android.content.SharedPreferences;
 import android.media.AudioManager;
 import android.media.MediaPlayer;
 import android.media.RingtoneManager;
@@ -47,7 +43,7 @@ public class QpActivity extends BaseActivity {
 		super.onCreate(savedInstanceState);
 		wakeUpAndUnlock(this);
 		this.requestWindowFeature(Window.FEATURE_NO_TITLE);
-		setContentView(R.layout.activity_qp);
+		setContentView(R.layout.activity_notify_qp);
 
 		tv_jd = (TextView) findViewById(R.id.tv_jd);
 		tv_xq = (TextView) findViewById(R.id.tv_xq);
