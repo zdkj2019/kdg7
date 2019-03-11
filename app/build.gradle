@@ -38,20 +38,22 @@ dependencies {
     implementation files('libs/badgeview.jar')
     implementation files('libs/BaiduLBS_Android.jar')
     implementation files('libs/commons-httpclient-3.0.1.jar')
+    implementation files('libs/commons-logging-1.2.jar')
+    implementation files('libs/commons-codec-1.9.jar')
     implementation files('libs/GifView.jar')
     implementation files('libs/ksoap2-android-assembly-3.3.0-jar-with-dependencies.jar')
     implementation files('libs/universal-image-loader-1.9.5.jar')
     implementation files('libs/zxing-3.0.0.jar')
 
-    //信鸽jar
-    implementation 'com.tencent.xinge:xinge:3.2.7-Release'
+
+    //信鸽普通版本jar，不包含厂商通道
+    implementation  'com.tencent.xinge:xinge:4.0.5-release'
+    //implementation'com.tencent.xinge:xinge:4.3.1-beta'
     //jg包
     implementation'com.tencent.jg:jg:1.1'
     //wup包
     implementation 'com.tencent.wup:wup:1.0.0.E-release'
-    //mid包
-    implementation 'com.tencent.mid:mid:4.0.6-release'
-    implementation 'com.tencent.xinge:xghw:3.2.8-Release'
-    implementation 'com.tencent.xinge:mipush:3.2.8-release'
-    implementation 'com.tencent.xinge:xgmz:3.2.8-release'
+    //mid包，minSdkVersion 14
+    implementation 'com.tencent.mid:mid:4.0.7-Release'
+
 }

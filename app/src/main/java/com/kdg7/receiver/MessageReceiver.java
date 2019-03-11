@@ -55,9 +55,9 @@ public class MessageReceiver extends XGPushBaseReceiver {
 			String msgStr = "";
 			msgStr = message.getContent();
 			JSONObject json = new JSONObject(msgStr);
-			if("HUAWEI".equals(brand)){
-				msgStr = json.getString("content");
-			}
+//			if("HUAWEI".equals(brand)){
+//				msgStr = json.getString("content");
+//			}
 			Intent it = new Intent(context, QpActivity.class);
 			it.putExtra("message", msgStr);
 			it.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);

@@ -46,12 +46,8 @@ public class BaseActivity extends CheckPermissionsActivity {
 	protected ProgressDialog progressDialog;
 	protected Window window;
 	protected AlertDialog dlg = null;
-	protected String checkedtxet, checkedtxet2, selectedId2;
 	protected DisplayMetrics dm;
 	protected Animation translate_Animation;
-	protected Button dlg_confirmb;
-	protected Button dlg_cancelb;
-	protected TextView dlg_title;
 	protected ImageLoader imageLoader = ImageLoader.getInstance();
 
 	@Override

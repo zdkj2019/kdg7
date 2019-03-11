@@ -48,7 +48,6 @@ import com.kdg7.po.User;
 import com.kdg7.utils.AppUtils;
 import com.kdg7.utils.Config;
 import com.kdg7.webservice.WebService;
-//import com.tencent.android.otherPush.StubAppUtils;
 import com.tencent.android.tpush.XGCustomPushNotificationBuilder;
 import com.tencent.android.tpush.XGIOperateCallback;
 import com.tencent.android.tpush.XGPushConfig;
@@ -99,20 +98,18 @@ public class MainActivity extends FrameActivity{
 	private void runServices() {
 	
 		try {
-			
-//			StubAppUtils.attachBaseContext(this);
-			XGPushConfig.enableOtherPush(getApplicationContext(), true);
-			XGPushConfig.setHuaweiDebug(true);
-			XGPushConfig.setMzPushAppId(this, "1003519");
-			XGPushConfig.setMzPushAppKey(this, "5ce6cf6b3daa4aa4a142ce468b5878bf");
-			XGPushConfig.setMiPushAppId(getApplicationContext(), "2882303761517925208");
-			XGPushConfig.setMiPushAppKey(getApplicationContext(), "5481792559208");
-			
-			
+//			XGPushConfig.enableOtherPush(getApplicationContext(), false);
+//			XGPushConfig.setHuaweiDebug(true);
+//			XGPushConfig.setMzPushAppId(this, "1003519");
+//			XGPushConfig.setMzPushAppKey(this, "5ce6cf6b3daa4aa4a142ce468b5878bf");
+//			XGPushConfig.setMiPushAppId(getApplicationContext(), "2882303761517925208");
+//			XGPushConfig.setMiPushAppKey(getApplicationContext(), "5481792559208");
+//			XGPushConfig.enableDebug(this,true);
+
 			XGCustomPushNotificationBuilder build = new XGCustomPushNotificationBuilder();
 			build.setSound(Uri.parse("android.resource://" + getPackageName() + "/" + R.raw.strum));
-			build.setDefaults(Notification.DEFAULT_LIGHTS); 
-			build.setFlags(Notification.FLAG_AUTO_CANCEL); 
+			build.setDefaults(Notification.DEFAULT_LIGHTS);
+			build.setFlags(Notification.FLAG_AUTO_CANCEL);
 			build.setLayoutId(R.layout.notification);
 			build.setLayoutTextId(R.id.content);
 			build.setLayoutTitleId(R.id.title);
@@ -123,25 +120,38 @@ public class MainActivity extends FrameActivity{
 			XGPushManager.registerPush(this, new XGIOperateCallback() {
 				@Override
 				public void onSuccess(Object data, int flag) {
-					token = (String) data;
-					User user = DataCache.getinition().getUser();
-					if(!token.equals(user.getTokenid())){
-						Config.getExecutorService().execute(new Runnable() {
+					try {
+						Log.d("TPush", "注册成功，设备token为：" + data);
+						token = (String) data;
+						User user = DataCache.getinition().getUser();
+						if(!token.equals(user.getTokenid())){
+							Config.getExecutorService().execute(new Runnable() {
 
-							@Override
-							public void run() {
-								getWebService("updateToken");
-							}
-						});
+								@Override
+								public void run() {
+									getWebService("updateToken");
+								}
+							});
+						}
+					}catch (Exception e){
+
 					}
-					
+
 				}
 
 				@Override
 				public void onFail(Object data, int errCode, String msg) {
-					token = "";
+
+					try {
+						Log.d("TPush", "注册失败，错误码：" + errCode + ",错误信息：" + msg);
+						token = "";
+					}catch (Exception e){
+
+					}
+
 				}
 			});
+
 		} catch (Exception e) {
 			e.printStackTrace();
 		}

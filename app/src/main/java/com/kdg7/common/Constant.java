@@ -21,6 +21,7 @@ public class Constant {
     public static String WEBSERVICE_URL_MSG_NAMESPACE = "http://dxs";
     
     public static String AppName = "kdg7.apk";
+	public static String PackageName = "com.kdg7";
 
 	public static final int NETWORK_ERROR = 1;
 	public static final int SUCCESS = 2;

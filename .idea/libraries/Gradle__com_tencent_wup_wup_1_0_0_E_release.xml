@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.tencent.wup:wup-1.0.0.E-release">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/wup-1.0.0.E-release.aar/ce2f2c0b6d2bffd6d3816dd8ea882dd9/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/wup-1.0.0.E-release.aar/ce2f2c0b6d2bffd6d3816dd8ea882dd9/jars/libs/wup-1.0.0.E-SNAPSHOT.jar!/" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/wup-1.0.0.E-release.aar/ce2f2c0b6d2bffd6d3816dd8ea882dd9/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/wup-1.0.0.E-release.aar/fb382b8f6f9fd1f4b2efc7b62fe08f17/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/wup-1.0.0.E-release.aar/fb382b8f6f9fd1f4b2efc7b62fe08f17/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/wup-1.0.0.E-release.aar/fb382b8f6f9fd1f4b2efc7b62fe08f17/jars/libs/wup-1.0.0.E-SNAPSHOT.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

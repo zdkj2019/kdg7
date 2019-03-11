@@ -28,12 +28,12 @@
         "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\layout\\activity_showgps.xml"
     },
     {
-        "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_search_backgroud.png.flat",
-        "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\drawable-hdpi\\search_backgroud.png"
-    },
-    {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_menu_esp_jdxy.png.flat",
         "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\drawable-hdpi\\menu_esp_jdxy.png"
+    },
+    {
+        "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_search_backgroud.png.flat",
+        "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\drawable-hdpi\\search_backgroud.png"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\layout_include_xj_type_3.xml.flat",
@@ -41,11 +41,11 @@
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\304d5be222b9f7378afa1dc0f0941066\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\304d5be222b9f7378afa1dc0f0941066\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_menu_w_jszl.png.flat",
@@ -60,20 +60,20 @@
         "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\anim\\dialog_enter.xml"
     },
     {
-        "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\layout_include_xj_sbgn.xml.flat",
-        "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\layout\\include_xj_sbgn.xml"
-    },
-    {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_btn_esp_down.png.flat",
         "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\drawable-hdpi\\btn_esp_down.png"
     },
     {
-        "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\304d5be222b9f7378afa1dc0f0941066\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+        "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\layout_include_xj_sbgn.xml.flat",
+        "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\layout\\include_xj_sbgn.xml"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_w_ico.png.flat",
         "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\drawable-hdpi\\w_ico.png"
+    },
+    {
+        "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable_btn_single.xml.flat",
@@ -81,7 +81,7 @@
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_action.xml.flat",
-        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\304d5be222b9f7378afa1dc0f0941066\\res\\layout\\notification_action.xml"
+        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\layout\\notification_action.xml"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_state_ico.png.flat",
@@ -113,11 +113,11 @@
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_big_media_custom.xml.flat",
-        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\9ebbb0e8d6557440cf1a81b0707de5c2\\res\\layout\\notification_template_big_media_custom.xml"
+        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\47d270a2eba1b2ab88aa958bc9618b73\\res\\layout\\notification_template_big_media_custom.xml"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_icon_group.xml.flat",
-        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\304d5be222b9f7378afa1dc0f0941066\\res\\layout\\notification_template_icon_group.xml"
+        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\layout\\notification_template_icon_group.xml"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_previous_month.png.flat",
@@ -180,10 +180,6 @@
         "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\layout\\activity_kdg_fwbg.xml"
     },
     {
-        "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_changepassword.xml.flat",
-        "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\layout\\activity_changepassword.xml"
-    },
-    {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_menu_kc_wbdbck.png.flat",
         "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\drawable-hdpi\\menu_kc_wbdbck.png"
     },
@@ -209,7 +205,7 @@
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_template_custom_big.xml.flat",
-        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\304d5be222b9f7378afa1dc0f0941066\\res\\layout-v21\\notification_template_custom_big.xml"
+        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_menu_yellow.png.flat",
@@ -233,19 +229,19 @@
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_media_custom.xml.flat",
-        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\9ebbb0e8d6557440cf1a81b0707de5c2\\res\\layout\\notification_template_media_custom.xml"
+        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\47d270a2eba1b2ab88aa958bc9618b73\\res\\layout\\notification_template_media_custom.xml"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ry_ico.png.flat",
         "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\drawable-hdpi\\ry_ico.png"
     },
     {
-        "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_servicereport_dzfwbg_down_ico.png.flat",
-        "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\drawable-hdpi\\servicereport_dzfwbg_down_ico.png"
-    },
-    {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\layout_notification.xml.flat",
         "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\layout\\notification.xml"
+    },
+    {
+        "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_servicereport_dzfwbg_down_ico.png.flat",
+        "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\drawable-hdpi\\servicereport_dzfwbg_down_ico.png"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\layout_listview_item_qyxx.xml.flat",
@@ -265,19 +261,19 @@
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_big_media.xml.flat",
-        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\9ebbb0e8d6557440cf1a81b0707de5c2\\res\\layout\\notification_template_big_media.xml"
+        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\47d270a2eba1b2ab88aa958bc9618b73\\res\\layout\\notification_template_big_media.xml"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_line_s.png.flat",
         "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\drawable-hdpi\\line_s.png"
     },
     {
-        "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_top_bg.png.flat",
-        "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\drawable-hdpi\\top_bg.png"
-    },
-    {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ico18.png.flat",
         "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\drawable-hdpi\\ico18.png"
+    },
+    {
+        "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_top_bg.png.flat",
+        "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\drawable-hdpi\\top_bg.png"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_kdg_xddwcx.xml.flat",
@@ -305,7 +301,7 @@
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\304d5be222b9f7378afa1dc0f0941066\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_fwbg_1.png.flat",
@@ -377,7 +373,11 @@
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_media_cancel_action.xml.flat",
-        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\9ebbb0e8d6557440cf1a81b0707de5c2\\res\\layout\\notification_media_cancel_action.xml"
+        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\47d270a2eba1b2ab88aa958bc9618b73\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_notify_qp.xml.flat",
+        "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\layout\\activity_notify_qp.xml"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_search1.9.png.flat",
@@ -393,7 +393,7 @@
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_lines_media.xml.flat",
-        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\9ebbb0e8d6557440cf1a81b0707de5c2\\res\\layout\\notification_template_lines_media.xml"
+        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\47d270a2eba1b2ab88aa958bc9618b73\\res\\layout\\notification_template_lines_media.xml"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable_btn_gree.xml.flat",
@@ -401,7 +401,7 @@
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21_notification_action_background.xml.flat",
-        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\304d5be222b9f7378afa1dc0f0941066\\res\\drawable-v21\\notification_action_background.xml"
+        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_servicereport_fx_down_ico.png.flat",
@@ -465,7 +465,7 @@
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable_notification_tile_bg.xml.flat",
-        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\304d5be222b9f7378afa1dc0f0941066\\res\\drawable\\notification_tile_bg.xml"
+        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\drawable\\notification_tile_bg.xml"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\layout_normal_demo_navi_event_dialog.xml.flat",
@@ -509,7 +509,7 @@
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable_notification_bg_low.xml.flat",
-        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\304d5be222b9f7378afa1dc0f0941066\\res\\drawable\\notification_bg_low.xml"
+        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\drawable\\notification_bg_low.xml"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_telphone.png.flat",
@@ -532,16 +532,12 @@
         "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\layout\\activity_zsklist.xml"
     },
     {
-        "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_dispatchinginformationreceiving.xml.flat",
-        "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\layout\\activity_dispatchinginformationreceiving.xml"
-    },
-    {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_menu_esp_fwzxs.png.flat",
         "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\drawable-hdpi\\menu_esp_fwzxs.png"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\304d5be222b9f7378afa1dc0f0941066\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_btn_normal_up_red.png.flat",
@@ -560,12 +556,12 @@
         "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\layout\\activity_kdg_gzdw.xml"
     },
     {
-        "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_login_btn.png.flat",
-        "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\drawable-hdpi\\login_btn.png"
-    },
-    {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_menu_kc_wbdbrk.png.flat",
         "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\drawable-hdpi\\menu_kc_wbdbrk.png"
+    },
+    {
+        "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_login_btn.png.flat",
+        "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\drawable-hdpi\\login_btn.png"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable_bt_top_back.xml.flat",
@@ -574,6 +570,10 @@
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_ryxx.xml.flat",
         "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\layout\\activity_ryxx.xml"
+    },
+    {
+        "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\xml_network_security_config.xml.flat",
+        "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\xml\\network_security_config.xml"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_yytbz.xml.flat",
@@ -633,7 +633,7 @@
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\304d5be222b9f7378afa1dc0f0941066\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_menu_blue.png.flat",
@@ -669,7 +669,7 @@
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_media_action.xml.flat",
-        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\9ebbb0e8d6557440cf1a81b0707de5c2\\res\\layout\\notification_media_action.xml"
+        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\47d270a2eba1b2ab88aa958bc9618b73\\res\\layout\\notification_media_action.xml"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\layout_listview_dispatchinginformationreceiving_item.xml.flat",
@@ -709,7 +709,7 @@
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable_notification_icon_background.xml.flat",
-        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\304d5be222b9f7378afa1dc0f0941066\\res\\drawable\\notification_icon_background.xml"
+        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\drawable\\notification_icon_background.xml"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_menu_esp_fwbg.png.flat",
@@ -781,7 +781,7 @@
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\304d5be222b9f7378afa1dc0f0941066\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_yytsearch.9.png.flat",
@@ -821,7 +821,7 @@
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_big_media_narrow_custom.xml.flat",
-        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\9ebbb0e8d6557440cf1a81b0707de5c2\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\47d270a2eba1b2ab88aa958bc9618b73\\res\\layout\\notification_template_big_media_narrow_custom.xml"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_fg_h.png.flat",
@@ -837,7 +837,7 @@
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\304d5be222b9f7378afa1dc0f0941066\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_menu_kdg_blue.png.flat",
@@ -857,7 +857,7 @@
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_big_media_narrow.xml.flat",
-        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\9ebbb0e8d6557440cf1a81b0707de5c2\\res\\layout\\notification_template_big_media_narrow.xml"
+        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\47d270a2eba1b2ab88aa958bc9618b73\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_btn_normal_down_yellow.png.flat",
@@ -893,7 +893,7 @@
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_template_icon_group.xml.flat",
-        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\304d5be222b9f7378afa1dc0f0941066\\res\\layout-v21\\notification_template_icon_group.xml"
+        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\layout_listview_kfmx_item.xml.flat",
@@ -929,11 +929,7 @@
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable_notification_bg.xml.flat",
-        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\304d5be222b9f7378afa1dc0f0941066\\res\\drawable\\notification_bg.xml"
-    },
-    {
-        "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_qp.xml.flat",
-        "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\layout\\activity_qp.xml"
+        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\drawable\\notification_bg.xml"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_dlg_title.9.png.flat",
@@ -977,7 +973,7 @@
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_part_time.xml.flat",
-        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\304d5be222b9f7378afa1dc0f0941066\\res\\layout\\notification_template_part_time.xml"
+        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\layout\\notification_template_part_time.xml"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_yhkinfo.xml.flat",
@@ -1005,7 +1001,7 @@
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\304d5be222b9f7378afa1dc0f0941066\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\layout_include_xj_type_2.xml.flat",
@@ -1069,7 +1065,7 @@
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\304d5be222b9f7378afa1dc0f0941066\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_change_user.png.flat",
@@ -1129,7 +1125,7 @@
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\304d5be222b9f7378afa1dc0f0941066\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\layout_include_xj_type_4.xml.flat",
@@ -1137,7 +1133,7 @@
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\304d5be222b9f7378afa1dc0f0941066\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_menu_esp_red.png.flat",
@@ -1181,7 +1177,7 @@
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_action_tombstone.xml.flat",
-        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\304d5be222b9f7378afa1dc0f0941066\\res\\layout-v21\\notification_action_tombstone.xml"
+        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_menu_kdg_jdxy.png.flat",
@@ -1225,7 +1221,7 @@
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_action_tombstone.xml.flat",
-        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\304d5be222b9f7378afa1dc0f0941066\\res\\layout\\notification_action_tombstone.xml"
+        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\layout\\notification_action_tombstone.xml"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_btn_js_up.png.flat",
@@ -1277,7 +1273,7 @@
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\layout-v21_notification_action.xml.flat",
-        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\304d5be222b9f7378afa1dc0f0941066\\res\\layout-v21\\notification_action.xml"
+        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\layout-v21\\notification_action.xml"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_btn_kc_down.png.flat",
@@ -1301,7 +1297,7 @@
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_media.xml.flat",
-        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\9ebbb0e8d6557440cf1a81b0707de5c2\\res\\layout\\notification_template_media.xml"
+        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\47d270a2eba1b2ab88aa958bc9618b73\\res\\layout\\notification_template_media.xml"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_checkbox_yes.png.flat",
@@ -1332,8 +1328,12 @@
         "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\layout\\activity_kdg_zsk.xml"
     },
     {
+        "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_kdg_list.xml.flat",
+        "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\layout\\activity_kdg_list.xml"
+    },
+    {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\304d5be222b9f7378afa1dc0f0941066\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\layout_listview_item_kcxx.xml.flat",
@@ -1346,6 +1346,10 @@
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\layout_calendar_main.xml.flat",
         "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\layout\\calendar_main.xml"
+    },
+    {
+        "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_w_params.xml.flat",
+        "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\layout\\activity_w_params.xml"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_btn_img_right.png.flat",
@@ -1413,11 +1417,11 @@
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\304d5be222b9f7378afa1dc0f0941066\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
-        "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_params.xml.flat",
-        "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\layout\\activity_params.xml"
+        "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_w_changepassword.xml.flat",
+        "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\layout\\activity_w_changepassword.xml"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_menu_w_gzz.png.flat",
@@ -1433,7 +1437,7 @@
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\layout_notification_template_part_chronometer.xml.flat",
-        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\304d5be222b9f7378afa1dc0f0941066\\res\\layout\\notification_template_part_chronometer.xml"
+        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\layout_include_xj_checkbox.xml.flat",
@@ -1445,7 +1449,7 @@
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\layout-v16_notification_template_custom_big.xml.flat",
-        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\304d5be222b9f7378afa1dc0f0941066\\res\\layout-v16\\notification_template_custom_big.xml"
+        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\layout-v16\\notification_template_custom_big.xml"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_checkbox_no.png.flat",
@@ -1490,6 +1494,10 @@
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_btn_esp_up.png.flat",
         "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\drawable-hdpi\\btn_esp_up.png"
+    },
+    {
+        "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\xml_file_paths.xml.flat",
+        "source": "D:\\application\\Android\\workspace\\kdg7\\app\\src\\main\\res\\xml\\file_paths.xml"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_albums_icon_bg.9.png.flat",
@@ -1549,7 +1557,7 @@
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\304d5be222b9f7378afa1dc0f0941066\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+        "source": "C:\\Users\\zdkj\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2bd0cc6b37be3d9dd346826450d83b1e\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
     },
     {
         "merged": "D:\\application\\Android\\workspace\\kdg7\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_login_bg.png.flat",

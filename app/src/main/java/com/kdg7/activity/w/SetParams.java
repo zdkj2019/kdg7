@@ -23,7 +23,7 @@ public class SetParams extends FrameActivity {
 		super.onCreate(savedInstanceState);
 		getWindow().setSoftInputMode(
 				WindowManager.LayoutParams.SOFT_INPUT_STATE_ALWAYS_HIDDEN);
-		appendMainBody(R.layout.activity_params);
+		appendMainBody(R.layout.activity_w_params);
 		initVariable();
 		initView();
 		initListeners();

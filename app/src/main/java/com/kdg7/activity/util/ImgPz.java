@@ -71,7 +71,7 @@ public class ImgPz extends FrameActivity {
 				R.id.confirm);
 		cancel = (Button) findViewById(R.id.include_botto).findViewById(
 				R.id.cancel);
-		cancel.setText("Ԥ��");
+		cancel.setText("预览");
 		gridview = (GridView) findViewById(R.id.gridview);
 		options = new DisplayImageOptions.Builder()
 				.showImageOnLoading(R.drawable.camera)
@@ -88,46 +88,33 @@ public class ImgPz extends FrameActivity {
 
 			@Override
 			public void onItemClick(AdapterView<?> parent, View view,
-					int position, long id) {
+									int position, long id) {
 
-				if(imglist.size()==position){
-					String[] items = new String[] { "手机拍照", "从相册选择", "取消" };
-					final AlertDialog.Builder builder = new AlertDialog.Builder(
-							ImgPz.this);
+				if (imglist.size() == position) {
+					String[] items = new String[]{"手机拍照", "从相册选择", "取消"};
+					final AlertDialog.Builder builder = new AlertDialog.Builder(ImgPz.this);
 					builder.setIcon(R.drawable.btn_img_down)
 							.setTitle("请选择照片来源")
-							.setItems(
-									items,
-									new android.content.DialogInterface.OnClickListener() {
+							.setItems(items,new android.content.DialogInterface.OnClickListener() {
 
-										@Override
-										public void onClick(DialogInterface dialog,
-												int which) {
-											if (which == 0) {
-												filename = String
-														.valueOf(
-																System.currentTimeMillis())
-														.trim().substring(4);
-												Intent intent = new Intent(
-														MediaStore.ACTION_IMAGE_CAPTURE);
+								@Override
+								public void onClick(DialogInterface dialog,
+													int which) {
+									if (which == 0) {
+										filename = String.valueOf(System.currentTimeMillis()).trim().substring(4);
+										Intent intent = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
+										intent.addFlags(Intent.FLAG_GRANT_READ_URI_PERMISSION);
+										intent.putExtra(MediaStore.EXTRA_OUTPUT,getUriForFile(getApplicationContext(),new File(Constant.SAVE_PIC_PATH, filename + ".jpg")));
+										startActivityForResult(intent, 1);
+									} else if (which == 1) {
+										Intent intent = new Intent(getApplicationContext(),ImgChoose.class);
+										startActivityForResult(intent, 2);
+									} else {
+										builder.create().dismiss();
+									}
 
-												intent.putExtra(
-														MediaStore.EXTRA_OUTPUT,
-														Uri.fromFile(new File(
-																Constant.SAVE_PIC_PATH,
-																filename + ".jpg")));
-												startActivityForResult(intent, 1);
-											} else if (which == 1) {
-												Intent intent = new Intent(
-														getApplicationContext(),
-														ImgChoose.class);
-												startActivityForResult(intent, 2);
-											} else {
-												builder.create().dismiss();
-											}
-
-										}
-									});
+								}
+							});
 					builder.create().show();
 				}
 			}

@@ -17,6 +17,7 @@ import android.annotation.SuppressLint;
 import android.app.AlertDialog;
 import android.app.AlertDialog.Builder;
 import android.app.DatePickerDialog;
+import android.content.Context;
 import android.content.Intent;
 import android.content.DialogInterface.OnClickListener;
 import android.content.pm.PackageInfo;
@@ -25,6 +26,7 @@ import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.net.Uri;
 import android.os.Bundle;
+import android.support.v4.content.FileProvider;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.Window;
@@ -39,6 +41,7 @@ import android.widget.TextView;
 import com.kdg7.R;
 import com.kdg7.activity.util.ImgPz;
 import com.kdg7.cache.DataCache;
+import com.kdg7.common.Constant;
 import com.kdg7.utils.DateUtil;
 import com.kdg7.webservice.WebService;
 
@@ -276,6 +279,10 @@ public abstract class FrameActivity extends BaseActivity{
 			}
 		}
 		return false;
+	}
+
+	public static Uri getUriForFile(Context context, File file) {
+		return FileProvider.getUriForFile(context, Constant.PackageName+".fileProvider", file);
 	}
 
 	protected byte[] readJpeg(File filename) {

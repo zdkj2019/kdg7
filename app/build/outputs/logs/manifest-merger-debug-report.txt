@@ -1,44 +1,41 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:2:1-226:12
-INJECTED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:2:1-226:12
-INJECTED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:2:1-226:12
-INJECTED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:2:1-226:12
-MERGED from [com.android.support:support-v4:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\cfd77d38fbd2052f4e652ab88c9cc821\AndroidManifest.xml:17:1-22:12
-MERGED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:2:1-110:12
-MERGED from [com.tencent.jg:jg:1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\jg-1.1.aar\34ffd333b964bfa83847a57fef623f4d\AndroidManifest.xml:2:1-11:12
-MERGED from [com.tencent.wup:wup:1.0.0.E-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\wup-1.0.0.E-release.aar\ce2f2c0b6d2bffd6d3816dd8ea882dd9\AndroidManifest.xml:2:1-17:12
-MERGED from [com.tencent.mid:mid:4.0.6-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mid-4.0.6-release.aar\0cba1250971b4ca6534634f1d18d49fc\AndroidManifest.xml:2:1-19:12
-MERGED from [com.tencent.xinge:xghw:3.2.8-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xghw-3.2.8-Release.aar\a5e207a72aeb26af995a237d25f8e687\AndroidManifest.xml:2:1-58:12
-MERGED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:2:1-70:12
-MERGED from [com.tencent.xinge:xgmz:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xgmz-3.2.8-release.aar\128e84be5ac750ad2a95e7c75bb511a5\AndroidManifest.xml:2:1-63:12
-MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\9ebbb0e8d6557440cf1a81b0707de5c2\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\6e282fad3d4ad2f641e01f8e57472798\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\888cdbfc8ddb04f7c413f97621949ce0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\41144992d1a1a0c391114822be997b06\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\fdd1bed16fc6cc3ef4f121b05c5f7057\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\0e963a7d02e5c708071f956587266530\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\539d650487ed3685bdc708d03be19dde\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\aa94a6798762b34700f6cf47c76356f9\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\00e638535916c8cbe70b818f27b200bf\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\06e58876f665cfbcd1a69f9bfb89d2ac\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\cf64c5f3d218c593929a1828cef6823f\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\2f3b145bbd9b2480d700420cf8fee41c\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\304d5be222b9f7378afa1dc0f0941066\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ea7af415867447b9025b92606ccd8e32\AndroidManifest.xml:17:1-25:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f9bfc5ceb3fd9c1b01ae797cafbfeae8\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\4de5c8cce204f2856813f11c9103162d\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\fee06bc57f10f90daa89c220256d1078\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\f7fd0270f6da26584ea60cb834a9240a\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\a2427d738db3eb9a6e1296e35c805e3c\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\e60184fc24aa7a3504a0e5374b1b001a\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\21b51c1d56bc565bf9e932784b0e11c8\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\6884277d6a990418d3cdb99d80e72ad7\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\7695ca4a821a9023c45f27af3e57dbf4\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ad25c9fa51f795914b0018d723a160e8\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:2:1-226:12
-INJECTED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:2:1-226:12
-INJECTED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:2:1-226:12
+ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:2:1-210:12
+INJECTED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:2:1-210:12
+INJECTED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:2:1-210:12
+INJECTED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:2:1-210:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\a6a9e09679f15e7de7f2550a90258e3c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:2:1-110:12
+MERGED from [com.tencent.jg:jg:1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\jg-1.1.aar\1cdde5f11ddc2738e1dc21d69a7432e2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.tencent.wup:wup:1.0.0.E-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\wup-1.0.0.E-release.aar\fb382b8f6f9fd1f4b2efc7b62fe08f17\AndroidManifest.xml:2:1-17:12
+MERGED from [com.tencent.mid:mid:4.0.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mid-4.0.7-Release.aar\fb19a14129b2e8dcffc16af9387a29dd\AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\47d270a2eba1b2ab88aa958bc9618b73\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\dfa783c9865867c367ab7b3993949ed4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\1d75ebe1d813e058cb536f2e6c80bbc6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\96a8baa4d433ab691cbabfee61c50e4a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\0fa2d4296d3745e515e3eae4d71e939f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\5380f098580c34c97657e7f3f6ae4a0d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\b6e68f66d460d36905d09af695e92f80\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\9f4a9011796157a77ad75111d83d2c98\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\b7afa9f42c8a605a67a67406ade1f2d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\8cbdc3339804a87e4a5e6e8e65dd1b6b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\778e9b5bb9fe18d0f7bfd0d5d91bd857\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\6e4416efeb6a47ba37121b9de8b582a3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\137e75d5ba386b6b113f69b6cbc85f15\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\29dfde43fba9bf3db47e708d186922ce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\d187e1602f62a10f9d1f5d35b3ec1d07\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\2ad48a6e6e4485e493c3baa7391400c3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\ef0c7401ba5093d40663d4447fd0632a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\59bd445b7efe64f8ea1c7c75b90f03bb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\a632f3fce4557175db0eef13b0f75e2d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ff96f6e2e5a8bab259119c8ddfd0147a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\383aeafc24cf380c7912cd2e7f192d72\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\295566637f9a30017008c4d447e2867e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\bc913bc9193cedb726a3c6fb3f9d39c0\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:2:1-210:12
+INJECTED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:2:1-210:12
+INJECTED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:2:1-210:12
 	package
 		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:3:5-23
 		INJECTED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml
@@ -69,8 +66,8 @@ ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xm
 		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:11:22-77
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:12:5-81
-MERGED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:20:5-81
-MERGED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:20:5-81
+MERGED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:20:5-81
+MERGED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:20:5-81
 	android:name
 		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:12:22-78
 uses-permission#android.permission.GET_TASKS
@@ -87,8 +84,8 @@ ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xm
 		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:15:22-69
 uses-permission#android.permission.VIBRATE
 ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:16:5-66
-MERGED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:16:5-66
-MERGED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:16:5-66
+MERGED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:16:5-66
+MERGED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:16:5-66
 	android:name
 		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:16:22-63
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
@@ -101,14 +98,14 @@ ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xm
 		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:18:22-76
 uses-permission#android.permission.ACCESS_WIFI_STATE
 ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:19:5-76
-MERGED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:13:5-76
-MERGED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:13:5-76
+MERGED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:13:5-76
+MERGED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:13:5-76
 	android:name
 		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:19:22-73
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:20:5-79
-MERGED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:14:5-79
-MERGED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:14:5-79
+MERGED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:14:5-79
+MERGED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:14:5-79
 	android:name
 		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:20:22-76
 uses-permission#android.permission.CHANGE_WIFI_STATE
@@ -117,14 +114,14 @@ ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xm
 		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:21:22-73
 uses-permission#android.permission.READ_PHONE_STATE
 ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:22:5-75
-MERGED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:12:5-75
-MERGED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:12:5-75
+MERGED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:12:5-75
+MERGED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:12:5-75
 	android:name
 		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:22:22-72
 uses-permission#android.permission.INTERNET
 ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:23:5-67
-MERGED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:11:5-67
-MERGED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:11:5-67
+MERGED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:11:5-67
+MERGED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:11:5-67
 	android:name
 		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:23:22-64
 uses-permission#android.permission.CALL_PHONE
@@ -137,8 +134,8 @@ ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xm
 		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:25:22-62
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
 ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:26:5-81
-MERGED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:19:5-81
-MERGED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:19:5-81
+MERGED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:19:5-81
+MERGED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:19:5-81
 	android:name
 		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:26:22-78
 uses-permission#android.permission.DISABLE_KEYGUARD
@@ -159,390 +156,346 @@ ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xm
 		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:32:22-66
 uses-permission#android.permission.WAKE_LOCK
 ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:33:5-68
-MERGED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:15:5-68
-MERGED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:15:5-68
+MERGED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:15:5-68
+MERGED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:15:5-68
 	android:name
 		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:33:22-65
-uses-permission#com.meizu.flyme.push.permission.RECEIVE
-ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:37:5-38:23
-MERGED from [com.tencent.xinge:xgmz:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xgmz-3.2.8-release.aar\128e84be5ac750ad2a95e7c75bb511a5\AndroidManifest.xml:11:5-79
-MERGED from [com.tencent.xinge:xgmz:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xgmz-3.2.8-release.aar\128e84be5ac750ad2a95e7c75bb511a5\AndroidManifest.xml:11:5-79
-	android:name
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:37:22-76
-permission#com.kdg7.push.permission.MESSAGE
-ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:40:5-42:47
-MERGED from [com.tencent.xinge:xgmz:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xgmz-3.2.8-release.aar\128e84be5ac750ad2a95e7c75bb511a5\AndroidManifest.xml:13:5-15:47
-	android:protectionLevel
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:42:9-44
-	android:name
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:41:9-56
-uses-permission#com.kdg7.push.permission.MESSAGE
-ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:44:5-45:23
-MERGED from [com.tencent.xinge:xgmz:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xgmz-3.2.8-release.aar\128e84be5ac750ad2a95e7c75bb511a5\AndroidManifest.xml:17:5-80
-	android:name
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:44:22-69
-uses-permission#com.meizu.c2dm.permission.RECEIVE
-ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:47:5-73
-MERGED from [com.tencent.xinge:xgmz:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xgmz-3.2.8-release.aar\128e84be5ac750ad2a95e7c75bb511a5\AndroidManifest.xml:20:5-73
-MERGED from [com.tencent.xinge:xgmz:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xgmz-3.2.8-release.aar\128e84be5ac750ad2a95e7c75bb511a5\AndroidManifest.xml:20:5-73
-	android:name
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:47:22-70
-permission#com.kdg7.permission.C2D_MESSAGE
-ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:49:5-52:18
-MERGED from [com.tencent.xinge:xgmz:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xgmz-3.2.8-release.aar\128e84be5ac750ad2a95e7c75bb511a5\AndroidManifest.xml:22:5-24:47
-	android:protectionLevel
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:51:9-44
-	android:name
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:50:9-55
-uses-permission#com.kdg7.permission.C2D_MESSAGE
-ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:54:5-71
-MERGED from [com.tencent.xinge:xgmz:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xgmz-3.2.8-release.aar\128e84be5ac750ad2a95e7c75bb511a5\AndroidManifest.xml:26:5-79
-	android:name
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:54:22-68
-permission#com.kdg7.permission.MIPUSH_RECEIVE
-ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:57:5-59:47
-MERGED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:10:5-12:47
-	android:protectionLevel
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:59:9-44
-	android:name
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:58:9-58
-uses-permission#com.kdg7.permission.MIPUSH_RECEIVE
-ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:61:5-74
-MERGED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:14:5-81
-	android:name
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:61:22-71
 application
-ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:63:5-224:19
-MERGED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:29:5-108:19
-MERGED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:29:5-108:19
-MERGED from [com.tencent.wup:wup:1.0.0.E-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\wup-1.0.0.E-release.aar\ce2f2c0b6d2bffd6d3816dd8ea882dd9\AndroidManifest.xml:11:5-15:19
-MERGED from [com.tencent.wup:wup:1.0.0.E-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\wup-1.0.0.E-release.aar\ce2f2c0b6d2bffd6d3816dd8ea882dd9\AndroidManifest.xml:11:5-15:19
-MERGED from [com.tencent.mid:mid:4.0.6-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mid-4.0.6-release.aar\0cba1250971b4ca6534634f1d18d49fc\AndroidManifest.xml:11:5-17:19
-MERGED from [com.tencent.mid:mid:4.0.6-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mid-4.0.6-release.aar\0cba1250971b4ca6534634f1d18d49fc\AndroidManifest.xml:11:5-17:19
-MERGED from [com.tencent.xinge:xghw:3.2.8-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xghw-3.2.8-Release.aar\a5e207a72aeb26af995a237d25f8e687\AndroidManifest.xml:11:5-56:19
-MERGED from [com.tencent.xinge:xghw:3.2.8-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xghw-3.2.8-Release.aar\a5e207a72aeb26af995a237d25f8e687\AndroidManifest.xml:11:5-56:19
-MERGED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:16:5-68:19
-MERGED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:16:5-68:19
-MERGED from [com.tencent.xinge:xgmz:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xgmz-3.2.8-release.aar\128e84be5ac750ad2a95e7c75bb511a5\AndroidManifest.xml:28:5-61:19
-MERGED from [com.tencent.xinge:xgmz:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xgmz-3.2.8-release.aar\128e84be5ac750ad2a95e7c75bb511a5\AndroidManifest.xml:28:5-61:19
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\304d5be222b9f7378afa1dc0f0941066\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\304d5be222b9f7378afa1dc0f0941066\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ea7af415867447b9025b92606ccd8e32\AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ea7af415867447b9025b92606ccd8e32\AndroidManifest.xml:22:5-23:19
+ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:37:5-208:19
+MERGED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:29:5-108:19
+MERGED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:29:5-108:19
+MERGED from [com.tencent.wup:wup:1.0.0.E-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\wup-1.0.0.E-release.aar\fb382b8f6f9fd1f4b2efc7b62fe08f17\AndroidManifest.xml:11:5-15:19
+MERGED from [com.tencent.wup:wup:1.0.0.E-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\wup-1.0.0.E-release.aar\fb382b8f6f9fd1f4b2efc7b62fe08f17\AndroidManifest.xml:11:5-15:19
+MERGED from [com.tencent.mid:mid:4.0.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mid-4.0.7-Release.aar\fb19a14129b2e8dcffc16af9387a29dd\AndroidManifest.xml:11:5-17:19
+MERGED from [com.tencent.mid:mid:4.0.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mid-4.0.7-Release.aar\fb19a14129b2e8dcffc16af9387a29dd\AndroidManifest.xml:11:5-17:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\137e75d5ba386b6b113f69b6cbc85f15\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\137e75d5ba386b6b113f69b6cbc85f15\AndroidManifest.xml:22:5-23:19
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\304d5be222b9f7378afa1dc0f0941066\AndroidManifest.xml:22:18-91
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from [com.tencent.wup:wup:1.0.0.E-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\wup-1.0.0.E-release.aar\ce2f2c0b6d2bffd6d3816dd8ea882dd9\AndroidManifest.xml:14:9-35
+		ADDED from [com.tencent.wup:wup:1.0.0.E-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\wup-1.0.0.E-release.aar\fb382b8f6f9fd1f4b2efc7b62fe08f17\AndroidManifest.xml:14:9-35
 	android:label
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:65:9-41
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:39:9-41
 	android:allowBackup
-		ADDED from [com.tencent.wup:wup:1.0.0.E-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\wup-1.0.0.E-release.aar\ce2f2c0b6d2bffd6d3816dd8ea882dd9\AndroidManifest.xml:12:9-35
+		ADDED from [com.tencent.wup:wup:1.0.0.E-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\wup-1.0.0.E-release.aar\fb382b8f6f9fd1f4b2efc7b62fe08f17\AndroidManifest.xml:12:9-35
 	android:persistent
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:66:9-34
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:40:9-34
 	android:icon
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:64:9-38
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:38:9-38
 	android:theme
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:67:9-40
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:41:9-40
 meta-data#com.baidu.lbsapi.API_KEY
-ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:68:9-70:64
+ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:43:9-45:64
 	android:value
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:70:13-61
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:45:13-61
 	android:name
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:69:13-52
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:44:13-52
 activity#com.kdg7.activity.load.LoadingActivity
-ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:72:9-82:20
+ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:47:9-57:20
 	android:screenOrientation
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:76:13-49
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:51:13-49
 	android:label
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:75:13-45
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:50:13-45
 	android:icon
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:74:13-42
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:49:13-42
 	android:name
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:73:13-66
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:48:13-66
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:77:13-81:29
+ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:52:13-56:29
 action#android.intent.action.MAIN
-ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:78:17-69
+ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:53:17-69
 	android:name
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:78:25-66
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:53:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:80:17-77
+ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:55:17-77
 	android:name
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:80:27-74
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:55:27-74
 activity#com.kdg7.activity.util.DataFilterActivity
-ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:85:9-87:52
+ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:60:9-62:52
 	android:screenOrientation
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:87:13-49
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:62:13-49
 	android:name
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:86:13-69
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:61:13-69
 activity#com.kdg7.activity.util.ImgPz
-ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:88:9-90:52
+ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:63:9-65:52
 	android:screenOrientation
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:90:13-49
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:65:13-49
 	android:name
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:89:13-56
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:64:13-56
 activity#com.kdg7.activity.util.ImgChoose
-ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:91:9-93:52
+ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:66:9-68:52
 	android:screenOrientation
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:93:13-49
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:68:13-49
 	android:name
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:92:13-60
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:67:13-60
 activity#com.kdg7.activity.util.ImagePagerActivity
-ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:94:9-96:52
+ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:69:9-71:52
 	android:screenOrientation
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:96:13-49
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:71:13-49
 	android:name
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:95:13-69
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:70:13-69
 activity#com.kdg7.activity.util.ImgChoosePage
-ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:97:9-99:52
+ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:72:9-74:52
 	android:screenOrientation
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:99:13-49
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:74:13-49
 	android:name
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:98:13-64
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:73:13-64
 activity#com.kdg7.activity.util.AddPartsAdd
-ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:100:9-102:52
+ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:75:9-77:52
 	android:screenOrientation
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:102:13-49
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:77:13-49
 	android:name
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:101:13-62
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:76:13-62
 activity#com.kdg7.activity.util.AddParts
-ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:103:9-106:52
+ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:78:9-81:52
 	android:screenOrientation
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:106:13-49
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:81:13-49
 	android:configChanges
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:105:13-63
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:80:13-63
 	android:name
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:104:13-59
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:79:13-59
 activity#com.kdg7.activity.util.BaiduMapActivity
-ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:107:9-110:52
+ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:82:9-85:52
 	android:screenOrientation
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:110:13-49
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:85:13-49
 	android:configChanges
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:109:13-63
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:84:13-63
 	android:name
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:108:13-67
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:83:13-67
 activity#com.kdg7.activity.util.ChooseActivity
-ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:111:9-115:20
+ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:86:9-90:20
 	android:screenOrientation
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:114:13-49
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:89:13-49
 	android:configChanges
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:113:13-63
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:88:13-63
 	android:name
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:112:13-65
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:87:13-65
 activity#com.kdg7.activity.util.CallTel
-ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:116:9-120:20
+ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:91:9-95:20
 	android:screenOrientation
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:119:13-49
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:94:13-49
 	android:configChanges
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:118:13-63
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:93:13-63
 	android:name
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:117:13-58
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:92:13-58
 activity#com.kdg7.activity.login.LoginActivity
-ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:123:9-126:52
+ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:98:9-101:52
 	android:screenOrientation
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:126:13-49
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:101:13-49
 	android:launchMode
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:125:13-44
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:100:13-44
 	android:name
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:124:13-65
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:99:13-65
 activity#com.kdg7.activity.w.ChangePasswordActivity
-ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:129:9-132:52
+ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:104:9-107:52
 	android:screenOrientation
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:132:13-49
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:107:13-49
 	android:launchMode
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:131:13-44
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:106:13-44
 	android:name
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:130:13-70
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:105:13-70
 activity#com.kdg7.activity.w.SetParams
-ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:133:9-137:20
+ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:108:9-112:20
 	android:screenOrientation
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:136:13-49
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:111:13-49
 	android:configChanges
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:135:13-63
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:110:13-63
 	android:name
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:134:13-57
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:109:13-57
 activity#com.kdg7.activity.register.RegisterActivity
-ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:140:9-143:52
+ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:115:9-118:52
 	android:screenOrientation
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:143:13-49
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:118:13-49
 	android:configChanges
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:142:13-63
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:117:13-63
 	android:name
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:141:13-71
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:116:13-71
 activity#com.kdg7.activity.register.RegisterCompleteActivity
-ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:144:9-147:52
+ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:119:9-122:52
 	android:screenOrientation
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:147:13-49
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:122:13-49
 	android:configChanges
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:146:13-63
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:121:13-63
 	android:name
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:145:13-79
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:120:13-79
 activity#com.kdg7.activity.main.MainActivity
-ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:150:9-154:20
+ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:125:9-129:20
 	android:screenOrientation
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:153:13-49
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:128:13-49
 	android:configChanges
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:152:13-63
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:127:13-63
 	android:name
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:151:13-63
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:126:13-63
 activity#com.kdg7.activity.kdg.ListKdg
-ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:157:9-161:20
+ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:132:9-136:20
 	android:screenOrientation
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:160:13-49
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:135:13-49
 	android:configChanges
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:159:13-63
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:134:13-63
 	android:name
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:158:13-57
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:133:13-57
 activity#com.kdg7.activity.kdg.JdxyKdg
-ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:162:9-166:20
+ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:137:9-141:20
 	android:screenOrientation
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:165:13-49
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:140:13-49
 	android:configChanges
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:164:13-63
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:139:13-63
 	android:name
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:163:13-57
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:138:13-57
 activity#com.kdg7.activity.kdg.SmdwKdg
-ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:167:9-171:20
+ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:142:9-146:20
 	android:screenOrientation
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:170:13-49
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:145:13-49
 	android:configChanges
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:169:13-63
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:144:13-63
 	android:name
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:168:13-57
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:143:13-57
 activity#com.kdg7.activity.kdg.FwbgKdg
-ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:172:9-176:20
+ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:147:9-151:20
 	android:screenOrientation
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:175:13-49
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:150:13-49
 	android:configChanges
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:174:13-63
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:149:13-63
 	android:name
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:173:13-57
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:148:13-57
 activity#com.kdg7.activity.kdg.MyqdKdg
-ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:177:9-181:20
+ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:152:9-156:20
 	android:screenOrientation
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:180:13-49
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:155:13-49
 	android:configChanges
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:179:13-63
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:154:13-63
 	android:name
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:178:13-57
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:153:13-57
 activity#com.kdg7.zxing.CaptureActivity
-ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:184:9-190:20
+ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:159:9-165:20
 	android:screenOrientation
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:187:13-50
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:162:13-50
 	android:windowSoftInputMode
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:189:13-60
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:164:13-60
 	android:configChanges
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:186:13-63
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:161:13-63
 	android:theme
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:188:13-71
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:163:13-71
 	android:name
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:185:13-58
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:160:13-58
 activity#com.kdg7.activity.notify.QpActivity
-ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:193:9-197:20
+ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:168:9-172:20
 	android:screenOrientation
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:196:13-49
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:171:13-49
 	android:configChanges
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:195:13-63
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:170:13-63
 	android:name
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:194:13-63
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:169:13-63
 service#com.baidu.location.f
-ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:199:9-203:19
+ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:174:9-178:19
 	android:process
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:202:13-38
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:177:13-38
 	android:enabled
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:201:13-35
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:176:13-35
 	android:name
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:200:13-48
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:175:13-48
 meta-data#com.tencent.rdm.uuid
-ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:206:9-208:64
+ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:181:9-183:64
 	android:value
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:208:13-61
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:183:13-61
 	android:name
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:207:13-48
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:182:13-48
 receiver#com.kdg7.receiver.MessageReceiver
-ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:212:9-222:20
+ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:187:9-197:20
 	android:exported
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:214:13-36
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:189:13-36
 	android:name
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:213:13-61
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:188:13-61
 intent-filter#action:name:com.tencent.android.tpush.action.FEEDBACK+action:name:com.tencent.android.tpush.action.PUSH_MESSAGE
-ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:215:13-221:29
+ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:190:13-196:29
 action#com.tencent.android.tpush.action.PUSH_MESSAGE
-ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:218:17-88
+ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:193:17-88
 	android:name
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:218:25-85
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:193:25-85
 action#com.tencent.android.tpush.action.FEEDBACK
-ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:220:17-84
+ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:195:17-84
 	android:name
-		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:220:25-81
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:195:25-81
+provider#android.support.v4.content.FileProvider
+ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:200:9-206:20
+	android:grantUriPermissions
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:203:13-47
+	android:authorities
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:201:13-56
+	android:exported
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:202:13-37
+	android:name
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:200:19-73
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:204:13-205:54
+	android:resource
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:205:17-51
+	android:name
+		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml:204:24-74
 uses-sdk
 INJECTED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml
 INJECTED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:support-v4:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\cfd77d38fbd2052f4e652ab88c9cc821\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\cfd77d38fbd2052f4e652ab88c9cc821\AndroidManifest.xml:20:5-44
-MERGED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:7:5-9:41
-MERGED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:7:5-9:41
-MERGED from [com.tencent.jg:jg:1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\jg-1.1.aar\34ffd333b964bfa83847a57fef623f4d\AndroidManifest.xml:7:5-9:41
-MERGED from [com.tencent.jg:jg:1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\jg-1.1.aar\34ffd333b964bfa83847a57fef623f4d\AndroidManifest.xml:7:5-9:41
-MERGED from [com.tencent.wup:wup:1.0.0.E-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\wup-1.0.0.E-release.aar\ce2f2c0b6d2bffd6d3816dd8ea882dd9\AndroidManifest.xml:7:5-9:41
-MERGED from [com.tencent.wup:wup:1.0.0.E-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\wup-1.0.0.E-release.aar\ce2f2c0b6d2bffd6d3816dd8ea882dd9\AndroidManifest.xml:7:5-9:41
-MERGED from [com.tencent.mid:mid:4.0.6-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mid-4.0.6-release.aar\0cba1250971b4ca6534634f1d18d49fc\AndroidManifest.xml:7:5-9:41
-MERGED from [com.tencent.mid:mid:4.0.6-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mid-4.0.6-release.aar\0cba1250971b4ca6534634f1d18d49fc\AndroidManifest.xml:7:5-9:41
-MERGED from [com.tencent.xinge:xghw:3.2.8-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xghw-3.2.8-Release.aar\a5e207a72aeb26af995a237d25f8e687\AndroidManifest.xml:7:5-9:41
-MERGED from [com.tencent.xinge:xghw:3.2.8-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xghw-3.2.8-Release.aar\a5e207a72aeb26af995a237d25f8e687\AndroidManifest.xml:7:5-9:41
-MERGED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:6:5-8:41
-MERGED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:6:5-8:41
-MERGED from [com.tencent.xinge:xgmz:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xgmz-3.2.8-release.aar\128e84be5ac750ad2a95e7c75bb511a5\AndroidManifest.xml:6:5-8:41
-MERGED from [com.tencent.xinge:xgmz:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xgmz-3.2.8-release.aar\128e84be5ac750ad2a95e7c75bb511a5\AndroidManifest.xml:6:5-8:41
-MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\9ebbb0e8d6557440cf1a81b0707de5c2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\9ebbb0e8d6557440cf1a81b0707de5c2\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\6e282fad3d4ad2f641e01f8e57472798\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\6e282fad3d4ad2f641e01f8e57472798\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\888cdbfc8ddb04f7c413f97621949ce0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\888cdbfc8ddb04f7c413f97621949ce0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\41144992d1a1a0c391114822be997b06\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\41144992d1a1a0c391114822be997b06\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\fdd1bed16fc6cc3ef4f121b05c5f7057\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\fdd1bed16fc6cc3ef4f121b05c5f7057\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\0e963a7d02e5c708071f956587266530\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\0e963a7d02e5c708071f956587266530\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\539d650487ed3685bdc708d03be19dde\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\539d650487ed3685bdc708d03be19dde\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\aa94a6798762b34700f6cf47c76356f9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\aa94a6798762b34700f6cf47c76356f9\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\00e638535916c8cbe70b818f27b200bf\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\00e638535916c8cbe70b818f27b200bf\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\06e58876f665cfbcd1a69f9bfb89d2ac\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\06e58876f665cfbcd1a69f9bfb89d2ac\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\cf64c5f3d218c593929a1828cef6823f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\cf64c5f3d218c593929a1828cef6823f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\2f3b145bbd9b2480d700420cf8fee41c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\2f3b145bbd9b2480d700420cf8fee41c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\304d5be222b9f7378afa1dc0f0941066\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\304d5be222b9f7378afa1dc0f0941066\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ea7af415867447b9025b92606ccd8e32\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\ea7af415867447b9025b92606ccd8e32\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f9bfc5ceb3fd9c1b01ae797cafbfeae8\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f9bfc5ceb3fd9c1b01ae797cafbfeae8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\4de5c8cce204f2856813f11c9103162d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\4de5c8cce204f2856813f11c9103162d\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\fee06bc57f10f90daa89c220256d1078\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\fee06bc57f10f90daa89c220256d1078\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\f7fd0270f6da26584ea60cb834a9240a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\f7fd0270f6da26584ea60cb834a9240a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\a2427d738db3eb9a6e1296e35c805e3c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\a2427d738db3eb9a6e1296e35c805e3c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\e60184fc24aa7a3504a0e5374b1b001a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\e60184fc24aa7a3504a0e5374b1b001a\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\21b51c1d56bc565bf9e932784b0e11c8\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\21b51c1d56bc565bf9e932784b0e11c8\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\6884277d6a990418d3cdb99d80e72ad7\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\6884277d6a990418d3cdb99d80e72ad7\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\7695ca4a821a9023c45f27af3e57dbf4\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\7695ca4a821a9023c45f27af3e57dbf4\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ad25c9fa51f795914b0018d723a160e8\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\ad25c9fa51f795914b0018d723a160e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\a6a9e09679f15e7de7f2550a90258e3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\a6a9e09679f15e7de7f2550a90258e3c\AndroidManifest.xml:20:5-44
+MERGED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.jg:jg:1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\jg-1.1.aar\1cdde5f11ddc2738e1dc21d69a7432e2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.jg:jg:1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\jg-1.1.aar\1cdde5f11ddc2738e1dc21d69a7432e2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.wup:wup:1.0.0.E-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\wup-1.0.0.E-release.aar\fb382b8f6f9fd1f4b2efc7b62fe08f17\AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.wup:wup:1.0.0.E-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\wup-1.0.0.E-release.aar\fb382b8f6f9fd1f4b2efc7b62fe08f17\AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.mid:mid:4.0.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mid-4.0.7-Release.aar\fb19a14129b2e8dcffc16af9387a29dd\AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.mid:mid:4.0.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mid-4.0.7-Release.aar\fb19a14129b2e8dcffc16af9387a29dd\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\47d270a2eba1b2ab88aa958bc9618b73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\47d270a2eba1b2ab88aa958bc9618b73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\dfa783c9865867c367ab7b3993949ed4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\dfa783c9865867c367ab7b3993949ed4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\1d75ebe1d813e058cb536f2e6c80bbc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\1d75ebe1d813e058cb536f2e6c80bbc6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\96a8baa4d433ab691cbabfee61c50e4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\96a8baa4d433ab691cbabfee61c50e4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\0fa2d4296d3745e515e3eae4d71e939f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\0fa2d4296d3745e515e3eae4d71e939f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\5380f098580c34c97657e7f3f6ae4a0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\5380f098580c34c97657e7f3f6ae4a0d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\b6e68f66d460d36905d09af695e92f80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\b6e68f66d460d36905d09af695e92f80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\9f4a9011796157a77ad75111d83d2c98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\9f4a9011796157a77ad75111d83d2c98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\b7afa9f42c8a605a67a67406ade1f2d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\b7afa9f42c8a605a67a67406ade1f2d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\8cbdc3339804a87e4a5e6e8e65dd1b6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\8cbdc3339804a87e4a5e6e8e65dd1b6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\778e9b5bb9fe18d0f7bfd0d5d91bd857\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\778e9b5bb9fe18d0f7bfd0d5d91bd857\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\6e4416efeb6a47ba37121b9de8b582a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\6e4416efeb6a47ba37121b9de8b582a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\2bd0cc6b37be3d9dd346826450d83b1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\137e75d5ba386b6b113f69b6cbc85f15\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\137e75d5ba386b6b113f69b6cbc85f15\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\29dfde43fba9bf3db47e708d186922ce\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\29dfde43fba9bf3db47e708d186922ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\d187e1602f62a10f9d1f5d35b3ec1d07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\d187e1602f62a10f9d1f5d35b3ec1d07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\2ad48a6e6e4485e493c3baa7391400c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\2ad48a6e6e4485e493c3baa7391400c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\ef0c7401ba5093d40663d4447fd0632a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\ef0c7401ba5093d40663d4447fd0632a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\59bd445b7efe64f8ea1c7c75b90f03bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\59bd445b7efe64f8ea1c7c75b90f03bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\a632f3fce4557175db0eef13b0f75e2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\a632f3fce4557175db0eef13b0f75e2d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ff96f6e2e5a8bab259119c8ddfd0147a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\ff96f6e2e5a8bab259119c8ddfd0147a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\383aeafc24cf380c7912cd2e7f192d72\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\383aeafc24cf380c7912cd2e7f192d72\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\295566637f9a30017008c4d447e2867e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\295566637f9a30017008c4d447e2867e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\bc913bc9193cedb726a3c6fb3f9d39c0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\bc913bc9193cedb726a3c6fb3f9d39c0\AndroidManifest.xml:20:5-44
 INJECTED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml
 INJECTED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
@@ -554,382 +507,170 @@ INJECTED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest
 		ADDED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml
 		INJECTED from D:\application\Android\workspace\kdg7\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.RECEIVE_USER_PRESENT
-ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:18:5-79
+ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:18:5-79
 	android:name
-		ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:18:22-76
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:18:22-76
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:21:5-73
+	android:name
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:21:22-70
 uses-permission#android.permission.BROADCAST_STICKY
-ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:23:5-75
+ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:23:5-75
 	android:name
-		ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:23:22-72
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:23:22-72
 uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
-ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:24:5-84
+ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:24:5-84
 	android:name
-		ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:24:22-81
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:24:22-81
 uses-permission#android.permission.READ_LOGS
-ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:25:5-68
+ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:25:5-68
 	android:name
-		ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:25:22-65
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:25:22-65
 uses-permission#android.permission.BLUETOOTH
-ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:26:5-68
+ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:26:5-68
 	android:name
-		ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:26:22-65
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:26:22-65
 uses-permission#android.permission.BATTERY_STATS
-ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:27:5-72
+ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:27:5-72
 	android:name
-		ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:27:22-69
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:27:22-69
 activity#com.tencent.android.tpush.XGPushActivity
-ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:32:9-41:20
+ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:32:9-41:20
 	android:exported
-		ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:34:13-37
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:34:13-37
 	android:theme
-		ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:35:13-61
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:35:13-61
 	android:name
-		ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:33:13-68
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:33:13-68
 intent-filter#action:name:android.intent.action
-ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:36:13-40:29
+ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:36:13-40:29
 action#android.intent.action
-ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:39:17-64
+ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:39:17-64
 	android:name
-		ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:39:25-61
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:39:25-61
 receiver#com.tencent.android.tpush.XGPushReceiver
-ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:44:9-70:20
+ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:44:9-70:20
 	android:process
-		ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:46:13-45
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:46:13-45
 	android:name
-		ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:45:13-68
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:45:13-68
 intent-filter#action:name:android.bluetooth.adapter.action.STATE_CHANGED+action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED+action:name:android.intent.action.USER_PRESENT+action:name:android.net.conn.CONNECTIVITY_CHANGE+action:name:com.tencent.android.tpush.action.INTERNAL_PUSH_MESSAGE+action:name:com.tencent.android.tpush.action.SDK
-ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:47:13-60:29
+ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:47:13-60:29
 	android:priority
-		ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:47:28-57
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:47:28-57
 action#com.tencent.android.tpush.action.SDK
-ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:50:17-79
+ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:50:17-79
 	android:name
-		ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:50:25-76
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:50:25-76
 action#com.tencent.android.tpush.action.INTERNAL_PUSH_MESSAGE
-ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:51:17-97
+ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:51:17-97
 	android:name
-		ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:51:25-94
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:51:25-94
 action#android.net.conn.CONNECTIVITY_CHANGE
-ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:53:17-79
+ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:53:17-79
 	android:name
-		ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:53:25-76
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:53:25-76
 action#android.intent.action.USER_PRESENT
-ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:55:17-77
+ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:55:17-77
 	android:name
-		ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:55:25-74
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:55:25-74
 action#android.bluetooth.adapter.action.STATE_CHANGED
-ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:57:17-89
+ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:57:17-89
 	android:name
-		ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:57:25-86
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:57:25-86
 action#android.intent.action.ACTION_POWER_CONNECTED
-ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:58:17-87
+ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:58:17-87
 	android:name
-		ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:58:25-84
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:58:25-84
 action#android.intent.action.ACTION_POWER_DISCONNECTED
-ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:59:17-90
+ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:59:17-90
 	android:name
-		ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:59:25-87
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:59:25-87
 intent-filter#action:name:android.intent.action.MEDIA_CHECKING+action:name:android.intent.action.MEDIA_EJECT+action:name:android.intent.action.MEDIA_REMOVED+action:name:android.intent.action.MEDIA_UNMOUNTED+data:scheme:file
-ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:62:13-69:29
+ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:62:13-69:29
 	android:priority
-		ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:62:28-57
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:62:28-57
 action#android.intent.action.MEDIA_UNMOUNTED
-ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:63:17-80
+ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:63:17-80
 	android:name
-		ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:63:25-77
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:63:25-77
 action#android.intent.action.MEDIA_REMOVED
-ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:64:17-78
+ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:64:17-78
 	android:name
-		ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:64:25-75
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:64:25-75
 action#android.intent.action.MEDIA_CHECKING
-ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:65:17-79
+ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:65:17-79
 	android:name
-		ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:65:25-76
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:65:25-76
 action#android.intent.action.MEDIA_EJECT
-ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:66:17-76
+ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:66:17-76
 	android:name
-		ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:66:25-73
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:66:25-73
 data
-ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:68:17-47
+ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:68:17-47
 	android:scheme
-		ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:68:23-44
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:68:23-44
 service#com.tencent.android.tpush.rpc.XGRemoteService
-ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:73:9-81:19
+ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:73:9-81:19
 	android:exported
-		ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:75:13-36
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:75:13-36
 	android:name
-		ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:74:13-73
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:74:13-73
 intent-filter#action:name:${applicationId}.PUSH_ACTION
-ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:76:13-80:29
+ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:76:13-80:29
 intent-filter#action:name:com.kdg7.PUSH_ACTION
-ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:76:13-80:29
+ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:76:13-80:29
 action#${applicationId}.PUSH_ACTION
-ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:79:17-71
+ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:79:17-71
 	android:name
-		ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:79:25-68
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:79:25-68
 action#com.kdg7.PUSH_ACTION
-ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:79:17-71
+ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:79:17-71
 	android:name
-		ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:79:25-68
-service#com.tencent.android.tpush.service.XGPushServiceV3
-ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:83:9-87:48
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:79:25-68
+service#com.tencent.android.tpush.service.XGPushServiceV4
+ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:83:9-87:48
 	android:process
-		ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:87:13-45
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:87:13-45
 	android:exported
-		ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:85:13-36
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:85:13-36
 	android:persistent
-		ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:86:13-38
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:86:13-38
 	android:name
-		ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:84:13-77
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:84:13-77
 provider#com.tencent.android.tpush.XGPushProvider
-ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:90:9-93:39
+ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:90:9-93:39
 	android:authorities
-		ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:92:13-63
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:92:13-63
 	android:exported
-		ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:93:13-36
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:93:13-36
 	android:name
-		ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:91:13-68
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:91:13-68
 provider#com.tencent.android.tpush.SettingsContentProvider
-ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:95:9-98:40
+ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:95:9-98:40
 	android:authorities
-		ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:97:13-66
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:97:13-66
 	android:exported
-		ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:98:13-37
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:98:13-37
 	android:name
-		ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:96:13-77
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:96:13-77
 meta-data#XG_V2_ACCESS_ID
-ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:101:9-103:47
+ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:101:9-103:47
 	android:value
-		ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:103:13-44
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:103:13-44
 	android:name
-		ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:102:13-43
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:102:13-43
 meta-data#XG_V2_ACCESS_KEY
-ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:105:9-107:48
+ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:105:9-107:48
 	android:value
-		ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:107:13-45
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:107:13-45
 	android:name
-		ADDED from [com.tencent.xinge:xinge:3.2.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-3.2.7-Release.aar\3dda5adebcb04c4499e75f09fb42634d\AndroidManifest.xml:106:13-44
+		ADDED from [com.tencent.xinge:xinge:4.0.5-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xinge-4.0.5-release.aar\2b93ae9259d2647e247e8c7fe9ce4ca3\AndroidManifest.xml:106:13-44
 provider#com.tencent.mid.api.MidProvider
-ADDED from [com.tencent.mid:mid:4.0.6-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mid-4.0.6-release.aar\0cba1250971b4ca6534634f1d18d49fc\AndroidManifest.xml:12:9-16:20
+ADDED from [com.tencent.mid:mid:4.0.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mid-4.0.7-Release.aar\fb19a14129b2e8dcffc16af9387a29dd\AndroidManifest.xml:12:9-16:20
 	android:authorities
-		ADDED from [com.tencent.mid:mid:4.0.6-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mid-4.0.6-release.aar\0cba1250971b4ca6534634f1d18d49fc\AndroidManifest.xml:14:13-66
+		ADDED from [com.tencent.mid:mid:4.0.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mid-4.0.7-Release.aar\fb19a14129b2e8dcffc16af9387a29dd\AndroidManifest.xml:14:13-66
 	android:exported
-		ADDED from [com.tencent.mid:mid:4.0.6-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mid-4.0.6-release.aar\0cba1250971b4ca6534634f1d18d49fc\AndroidManifest.xml:15:13-36
+		ADDED from [com.tencent.mid:mid:4.0.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mid-4.0.7-Release.aar\fb19a14129b2e8dcffc16af9387a29dd\AndroidManifest.xml:15:13-36
 	android:name
-		ADDED from [com.tencent.mid:mid:4.0.6-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mid-4.0.6-release.aar\0cba1250971b4ca6534634f1d18d49fc\AndroidManifest.xml:13:13-59
-meta-data#com.huawei.hms.client.appid
-ADDED from [com.tencent.xinge:xghw:3.2.8-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xghw-3.2.8-Release.aar\a5e207a72aeb26af995a237d25f8e687\AndroidManifest.xml:12:9-15:21
-	android:value
-		ADDED from [com.tencent.xinge:xghw:3.2.8-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xghw-3.2.8-Release.aar\a5e207a72aeb26af995a237d25f8e687\AndroidManifest.xml:14:13-40
-	android:name
-		ADDED from [com.tencent.xinge:xghw:3.2.8-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xghw-3.2.8-Release.aar\a5e207a72aeb26af995a237d25f8e687\AndroidManifest.xml:13:13-55
-activity#com.huawei.hms.activity.BridgeActivity
-ADDED from [com.tencent.xinge:xghw:3.2.8-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xghw-3.2.8-Release.aar\a5e207a72aeb26af995a237d25f8e687\AndroidManifest.xml:17:9-27:20
-	android:excludeFromRecents
-		ADDED from [com.tencent.xinge:xghw:3.2.8-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xghw-3.2.8-Release.aar\a5e207a72aeb26af995a237d25f8e687\AndroidManifest.xml:20:13-46
-	android:hardwareAccelerated
-		ADDED from [com.tencent.xinge:xghw:3.2.8-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xghw-3.2.8-Release.aar\a5e207a72aeb26af995a237d25f8e687\AndroidManifest.xml:22:13-47
-	android:exported
-		ADDED from [com.tencent.xinge:xghw:3.2.8-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xghw-3.2.8-Release.aar\a5e207a72aeb26af995a237d25f8e687\AndroidManifest.xml:21:13-37
-	android:configChanges
-		ADDED from [com.tencent.xinge:xghw:3.2.8-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xghw-3.2.8-Release.aar\a5e207a72aeb26af995a237d25f8e687\AndroidManifest.xml:19:13-92
-	android:theme
-		ADDED from [com.tencent.xinge:xghw:3.2.8-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xghw-3.2.8-Release.aar\a5e207a72aeb26af995a237d25f8e687\AndroidManifest.xml:23:13-61
-	android:name
-		ADDED from [com.tencent.xinge:xghw:3.2.8-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xghw-3.2.8-Release.aar\a5e207a72aeb26af995a237d25f8e687\AndroidManifest.xml:18:13-66
-meta-data#hwc-theme
-ADDED from [com.tencent.xinge:xghw:3.2.8-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xghw-3.2.8-Release.aar\a5e207a72aeb26af995a237d25f8e687\AndroidManifest.xml:24:13-26:77
-	android:value
-		ADDED from [com.tencent.xinge:xghw:3.2.8-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xghw-3.2.8-Release.aar\a5e207a72aeb26af995a237d25f8e687\AndroidManifest.xml:26:17-74
-	android:name
-		ADDED from [com.tencent.xinge:xghw:3.2.8-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xghw-3.2.8-Release.aar\a5e207a72aeb26af995a237d25f8e687\AndroidManifest.xml:25:17-41
-provider#com.huawei.hms.update.provider.UpdateProvider
-ADDED from [com.tencent.xinge:xghw:3.2.8-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xghw-3.2.8-Release.aar\a5e207a72aeb26af995a237d25f8e687\AndroidManifest.xml:29:9-34:20
-	android:grantUriPermissions
-		ADDED from [com.tencent.xinge:xghw:3.2.8-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xghw-3.2.8-Release.aar\a5e207a72aeb26af995a237d25f8e687\AndroidManifest.xml:33:13-47
-	android:authorities
-		ADDED from [com.tencent.xinge:xghw:3.2.8-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xghw-3.2.8-Release.aar\a5e207a72aeb26af995a237d25f8e687\AndroidManifest.xml:31:13-71
-	android:exported
-		ADDED from [com.tencent.xinge:xghw:3.2.8-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xghw-3.2.8-Release.aar\a5e207a72aeb26af995a237d25f8e687\AndroidManifest.xml:32:13-37
-	android:name
-		ADDED from [com.tencent.xinge:xghw:3.2.8-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xghw-3.2.8-Release.aar\a5e207a72aeb26af995a237d25f8e687\AndroidManifest.xml:30:13-73
-receiver#com.tencent.android.hwpush.HWPushMessageReceiver
-ADDED from [com.tencent.xinge:xghw:3.2.8-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xghw-3.2.8-Release.aar\a5e207a72aeb26af995a237d25f8e687\AndroidManifest.xml:36:9-48:20
-	android:name
-		ADDED from [com.tencent.xinge:xghw:3.2.8-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xghw-3.2.8-Release.aar\a5e207a72aeb26af995a237d25f8e687\AndroidManifest.xml:36:19-82
-intent-filter#action:name:com.huawei.android.push.intent.CLICK+action:name:com.huawei.android.push.intent.RECEIVE+action:name:com.huawei.android.push.intent.REGISTRATION+action:name:com.huawei.intent.action.PUSH_STATE
-ADDED from [com.tencent.xinge:xghw:3.2.8-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xghw-3.2.8-Release.aar\a5e207a72aeb26af995a237d25f8e687\AndroidManifest.xml:37:13-47:29
-action#com.huawei.android.push.intent.REGISTRATION
-ADDED from [com.tencent.xinge:xghw:3.2.8-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xghw-3.2.8-Release.aar\a5e207a72aeb26af995a237d25f8e687\AndroidManifest.xml:40:17-86
-	android:name
-		ADDED from [com.tencent.xinge:xghw:3.2.8-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xghw-3.2.8-Release.aar\a5e207a72aeb26af995a237d25f8e687\AndroidManifest.xml:40:25-83
-action#com.huawei.android.push.intent.RECEIVE
-ADDED from [com.tencent.xinge:xghw:3.2.8-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xghw-3.2.8-Release.aar\a5e207a72aeb26af995a237d25f8e687\AndroidManifest.xml:42:17-81
-	android:name
-		ADDED from [com.tencent.xinge:xghw:3.2.8-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xghw-3.2.8-Release.aar\a5e207a72aeb26af995a237d25f8e687\AndroidManifest.xml:42:25-78
-action#com.huawei.android.push.intent.CLICK
-ADDED from [com.tencent.xinge:xghw:3.2.8-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xghw-3.2.8-Release.aar\a5e207a72aeb26af995a237d25f8e687\AndroidManifest.xml:44:17-79
-	android:name
-		ADDED from [com.tencent.xinge:xghw:3.2.8-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xghw-3.2.8-Release.aar\a5e207a72aeb26af995a237d25f8e687\AndroidManifest.xml:44:25-76
-action#com.huawei.intent.action.PUSH_STATE
-ADDED from [com.tencent.xinge:xghw:3.2.8-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xghw-3.2.8-Release.aar\a5e207a72aeb26af995a237d25f8e687\AndroidManifest.xml:46:17-78
-	android:name
-		ADDED from [com.tencent.xinge:xghw:3.2.8-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xghw-3.2.8-Release.aar\a5e207a72aeb26af995a237d25f8e687\AndroidManifest.xml:46:25-75
-receiver#com.huawei.hms.support.api.push.PushEventReceiver
-ADDED from [com.tencent.xinge:xghw:3.2.8-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xghw-3.2.8-Release.aar\a5e207a72aeb26af995a237d25f8e687\AndroidManifest.xml:49:9-55:20
-	android:name
-		ADDED from [com.tencent.xinge:xghw:3.2.8-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xghw-3.2.8-Release.aar\a5e207a72aeb26af995a237d25f8e687\AndroidManifest.xml:49:19-83
-intent-filter#action:name:com.huawei.intent.action.PUSH
-ADDED from [com.tencent.xinge:xghw:3.2.8-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xghw-3.2.8-Release.aar\a5e207a72aeb26af995a237d25f8e687\AndroidManifest.xml:50:13-54:29
-action#com.huawei.intent.action.PUSH
-ADDED from [com.tencent.xinge:xghw:3.2.8-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xghw-3.2.8-Release.aar\a5e207a72aeb26af995a237d25f8e687\AndroidManifest.xml:53:17-72
-	android:name
-		ADDED from [com.tencent.xinge:xghw:3.2.8-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xghw-3.2.8-Release.aar\a5e207a72aeb26af995a237d25f8e687\AndroidManifest.xml:53:25-69
-permission#${PACKAGE_NAME}.permission.MIPUSH_RECEIVE
-MERGED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:10:5-12:47
-uses-permission#${PACKAGE_NAME}.permission.MIPUSH_RECEIVE
-MERGED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:14:5-81
-service#com.xiaomi.push.service.XMPushService
-ADDED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:19:9-22:46
-	android:process
-		ADDED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:22:13-43
-	android:enabled
-		ADDED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:21:13-35
-	android:name
-		ADDED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:20:13-65
-service#com.xiaomi.push.service.XMJobService
-ADDED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:23:9-28:46
-	android:process
-		ADDED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:28:13-43
-	android:enabled
-		ADDED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:25:13-35
-	android:exported
-		ADDED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:26:13-37
-	android:permission
-		ADDED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:27:13-69
-	android:name
-		ADDED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:24:13-64
-service#com.xiaomi.mipush.sdk.PushMessageHandler
-ADDED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:30:9-33:39
-	android:enabled
-		ADDED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:32:13-35
-	android:exported
-		ADDED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:33:13-36
-	android:name
-		ADDED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:31:13-68
-service#com.xiaomi.mipush.sdk.MessageHandleService
-ADDED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:34:9-36:38
-	android:enabled
-		ADDED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:36:13-35
-	android:name
-		ADDED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:35:13-70
-receiver#com.xiaomi.push.service.receivers.NetworkStatusReceiver
-ADDED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:38:9-46:20
-	android:exported
-		ADDED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:40:13-36
-	android:name
-		ADDED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:39:13-83
-intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE+category:name:android.intent.category.DEFAULT
-ADDED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:41:13-45:29
-category#android.intent.category.DEFAULT
-ADDED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:44:17-76
-	android:name
-		ADDED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:44:27-73
-receiver#com.xiaomi.push.service.receivers.PingReceiver
-ADDED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:47:9-54:20
-	android:process
-		ADDED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:50:13-43
-	android:exported
-		ADDED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:49:13-37
-	android:name
-		ADDED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:48:13-74
-intent-filter#action:name:com.xiaomi.push.PING_TIMER
-ADDED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:51:13-53:29
-action#com.xiaomi.push.PING_TIMER
-ADDED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:52:17-69
-	android:name
-		ADDED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:52:25-66
-receiver#com.tencent.android.mipush.XMPushMessageReceiver
-ADDED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:55:9-67:20
-	android:exported
-		ADDED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:57:13-36
-	android:name
-		ADDED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:56:13-76
-intent-filter#action:name:com.xiaomi.mipush.RECEIVE_MESSAGE
-ADDED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:58:13-60:29
-action#com.xiaomi.mipush.RECEIVE_MESSAGE
-ADDED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:59:17-76
-	android:name
-		ADDED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:59:25-73
-intent-filter#action:name:com.xiaomi.mipush.MESSAGE_ARRIVED
-ADDED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:61:13-63:29
-action#com.xiaomi.mipush.MESSAGE_ARRIVED
-ADDED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:62:17-76
-	android:name
-		ADDED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:62:25-73
-intent-filter#action:name:com.xiaomi.mipush.ERROR
-ADDED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:64:13-66:29
-action#com.xiaomi.mipush.ERROR
-ADDED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:65:17-66
-	android:name
-		ADDED from [com.tencent.xinge:mipush:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mipush-3.2.8-release.aar\ec0fcf18b57455c0d56ed46be251d6a4\AndroidManifest.xml:65:25-63
-permission#${applicationId}.push.permission.MESSAGE
-MERGED from [com.tencent.xinge:xgmz:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xgmz-3.2.8-release.aar\128e84be5ac750ad2a95e7c75bb511a5\AndroidManifest.xml:13:5-15:47
-uses-permission#${applicationId}.push.permission.MESSAGE
-MERGED from [com.tencent.xinge:xgmz:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xgmz-3.2.8-release.aar\128e84be5ac750ad2a95e7c75bb511a5\AndroidManifest.xml:17:5-80
-permission#${applicationId}.permission.C2D_MESSAGE
-MERGED from [com.tencent.xinge:xgmz:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xgmz-3.2.8-release.aar\128e84be5ac750ad2a95e7c75bb511a5\AndroidManifest.xml:22:5-24:47
-uses-permission#${applicationId}.permission.C2D_MESSAGE
-MERGED from [com.tencent.xinge:xgmz:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xgmz-3.2.8-release.aar\128e84be5ac750ad2a95e7c75bb511a5\AndroidManifest.xml:26:5-79
-service#com.meizu.cloud.pushsdk.NotificationService
-ADDED from [com.tencent.xinge:xgmz:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xgmz-3.2.8-release.aar\128e84be5ac750ad2a95e7c75bb511a5\AndroidManifest.xml:31:9-33:39
-	android:exported
-		ADDED from [com.tencent.xinge:xgmz:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xgmz-3.2.8-release.aar\128e84be5ac750ad2a95e7c75bb511a5\AndroidManifest.xml:33:13-36
-	android:name
-		ADDED from [com.tencent.xinge:xgmz:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xgmz-3.2.8-release.aar\128e84be5ac750ad2a95e7c75bb511a5\AndroidManifest.xml:32:13-71
-receiver#com.meizu.cloud.pushsdk.SystemReceiver
-ADDED from [com.tencent.xinge:xgmz:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xgmz-3.2.8-release.aar\128e84be5ac750ad2a95e7c75bb511a5\AndroidManifest.xml:35:9-41:20
-	android:name
-		ADDED from [com.tencent.xinge:xgmz:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xgmz-3.2.8-release.aar\128e84be5ac750ad2a95e7c75bb511a5\AndroidManifest.xml:35:19-72
-intent-filter#action:name:com.meizu.cloud.pushservice.action.PUSH_SERVICE_START+category:name:android.intent.category.DEFAULT
-ADDED from [com.tencent.xinge:xgmz:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xgmz-3.2.8-release.aar\128e84be5ac750ad2a95e7c75bb511a5\AndroidManifest.xml:36:13-40:29
-action#com.meizu.cloud.pushservice.action.PUSH_SERVICE_START
-ADDED from [com.tencent.xinge:xgmz:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xgmz-3.2.8-release.aar\128e84be5ac750ad2a95e7c75bb511a5\AndroidManifest.xml:37:17-96
-	android:name
-		ADDED from [com.tencent.xinge:xgmz:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xgmz-3.2.8-release.aar\128e84be5ac750ad2a95e7c75bb511a5\AndroidManifest.xml:37:25-93
-receiver#com.tencent.android.mzpush.MZPushMessageReceiver
-ADDED from [com.tencent.xinge:xgmz:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xgmz-3.2.8-release.aar\128e84be5ac750ad2a95e7c75bb511a5\AndroidManifest.xml:45:9-60:20
-	android:name
-		ADDED from [com.tencent.xinge:xgmz:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xgmz-3.2.8-release.aar\128e84be5ac750ad2a95e7c75bb511a5\AndroidManifest.xml:45:19-82
-intent-filter#action:name:com.meizu.c2dm.intent.RECEIVE+action:name:com.meizu.c2dm.intent.REGISTRATION+action:name:com.meizu.flyme.push.intent.MESSAGE+action:name:com.meizu.flyme.push.intent.REGISTER.FEEDBACK+action:name:com.meizu.flyme.push.intent.UNREGISTER.FEEDBACK+category:name:${applicationId}
-ADDED from [com.tencent.xinge:xgmz:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xgmz-3.2.8-release.aar\128e84be5ac750ad2a95e7c75bb511a5\AndroidManifest.xml:46:13-59:29
-intent-filter#action:name:com.meizu.c2dm.intent.RECEIVE+action:name:com.meizu.c2dm.intent.REGISTRATION+action:name:com.meizu.flyme.push.intent.MESSAGE+action:name:com.meizu.flyme.push.intent.REGISTER.FEEDBACK+action:name:com.meizu.flyme.push.intent.UNREGISTER.FEEDBACK+category:name:com.kdg7
-ADDED from [com.tencent.xinge:xgmz:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xgmz-3.2.8-release.aar\128e84be5ac750ad2a95e7c75bb511a5\AndroidManifest.xml:46:13-59:29
-action#com.meizu.flyme.push.intent.MESSAGE
-ADDED from [com.tencent.xinge:xgmz:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xgmz-3.2.8-release.aar\128e84be5ac750ad2a95e7c75bb511a5\AndroidManifest.xml:49:17-78
-	android:name
-		ADDED from [com.tencent.xinge:xgmz:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xgmz-3.2.8-release.aar\128e84be5ac750ad2a95e7c75bb511a5\AndroidManifest.xml:49:25-75
-action#com.meizu.flyme.push.intent.REGISTER.FEEDBACK
-ADDED from [com.tencent.xinge:xgmz:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xgmz-3.2.8-release.aar\128e84be5ac750ad2a95e7c75bb511a5\AndroidManifest.xml:51:17-88
-	android:name
-		ADDED from [com.tencent.xinge:xgmz:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xgmz-3.2.8-release.aar\128e84be5ac750ad2a95e7c75bb511a5\AndroidManifest.xml:51:25-85
-action#com.meizu.flyme.push.intent.UNREGISTER.FEEDBACK
-ADDED from [com.tencent.xinge:xgmz:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xgmz-3.2.8-release.aar\128e84be5ac750ad2a95e7c75bb511a5\AndroidManifest.xml:53:17-90
-	android:name
-		ADDED from [com.tencent.xinge:xgmz:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xgmz-3.2.8-release.aar\128e84be5ac750ad2a95e7c75bb511a5\AndroidManifest.xml:53:25-87
-action#com.meizu.c2dm.intent.REGISTRATION
-ADDED from [com.tencent.xinge:xgmz:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xgmz-3.2.8-release.aar\128e84be5ac750ad2a95e7c75bb511a5\AndroidManifest.xml:54:17-77
-	android:name
-		ADDED from [com.tencent.xinge:xgmz:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xgmz-3.2.8-release.aar\128e84be5ac750ad2a95e7c75bb511a5\AndroidManifest.xml:54:25-74
-action#com.meizu.c2dm.intent.RECEIVE
-ADDED from [com.tencent.xinge:xgmz:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xgmz-3.2.8-release.aar\128e84be5ac750ad2a95e7c75bb511a5\AndroidManifest.xml:55:17-72
-	android:name
-		ADDED from [com.tencent.xinge:xgmz:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xgmz-3.2.8-release.aar\128e84be5ac750ad2a95e7c75bb511a5\AndroidManifest.xml:55:25-69
-category#${applicationId}
-ADDED from [com.tencent.xinge:xgmz:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xgmz-3.2.8-release.aar\128e84be5ac750ad2a95e7c75bb511a5\AndroidManifest.xml:57:17-58:28
-	android:name
-		ADDED from [com.tencent.xinge:xgmz:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xgmz-3.2.8-release.aar\128e84be5ac750ad2a95e7c75bb511a5\AndroidManifest.xml:57:27-58
-category#com.kdg7
-ADDED from [com.tencent.xinge:xgmz:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xgmz-3.2.8-release.aar\128e84be5ac750ad2a95e7c75bb511a5\AndroidManifest.xml:57:17-58:28
-	android:name
-		ADDED from [com.tencent.xinge:xgmz:3.2.8-release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\xgmz-3.2.8-release.aar\128e84be5ac750ad2a95e7c75bb511a5\AndroidManifest.xml:57:27-58
+		ADDED from [com.tencent.mid:mid:4.0.7-Release] C:\Users\zdkj\.gradle\caches\transforms-1\files-1.1\mid-4.0.7-Release.aar\fb19a14129b2e8dcffc16af9387a29dd\AndroidManifest.xml:13:13-59
